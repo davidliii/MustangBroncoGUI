@@ -1,6 +1,6 @@
 """UI for MustangBronco program
 
-This is the main user progrtam that takes user integer inputs and returns the
+This is the main user program that takes user integer inputs and returns the
 appropriate string outputs. 
 
   Typical usage example:
